@@ -12,9 +12,7 @@ Data is obtained from <https://berkeleyearth.org/data/>. Under the "National and
 
 ### Environment
 
-This code was created to run in Google Colaboratory <https://colab.research.google.com/>. All you should need is a Google account.
-
-Unless otherwise stated, code was additionally tested on local machines using the following environment.
+Code was tested on local machines using the following environment.
 ```
 conda create --name env-enso-preprocessing python=3.12.0
 conda activate env-enso-preprocessing
