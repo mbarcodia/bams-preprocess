@@ -14,8 +14,8 @@ Data is obtained from <https://berkeleyearth.org/data/>. Under the "National and
 
 Code was tested on local machines using the following environment.
 ```
-conda create --name env-enso-preprocessing python=3.12.0
-conda activate env-enso-preprocessing
+conda create --name env-bams-preprocessing python=3.12.0
+conda activate env-bams-preprocessing
 conda install numpy scipy pandas matplotlib xarray scikit-learn netCDF4 cartopy pytorch
 conda install  palettable flake8  jupyterlab black jupyterlab_code_formatter
 pip install ipykernel seaborn cartopy fsspec requests aiohttp h5netcdf wget
