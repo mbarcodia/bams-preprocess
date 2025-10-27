@@ -5,7 +5,7 @@ Case study for BAMS submission highlighting skill differences from preprocessing
 
 ### Code
 
-Code is written in pytorch. Code can by run in Google Colab via [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repo/blob/main/notebook.ipynb)
+Code is written in pytorch. Code can by run in Google Colab via [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repo/blob/main/notebook.ipynb](https://colab.research.google.com/github/mbarcodia/bams-preprocess/blob/main/code/CONUS_temp_prediction_r2.ipynb)
 
 
 ### Data
