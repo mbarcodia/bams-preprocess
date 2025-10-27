@@ -5,7 +5,8 @@ Case study for BAMS submission highlighting skill differences from preprocessing
 
 ### Code
 
-Code is written in pytorch.
+Code is written in pytorch. Code can by run in Google Colab via [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repo/blob/main/notebook.ipynb)
+
 
 ### Data
 Data is obtained from <https://berkeleyearth.org/data/>. Under the "National and Regional Temperature Data" tab, the 1.0x1.0 gridded monthly average temperature for North America was downloaded then directly read into the .ipynb. 
